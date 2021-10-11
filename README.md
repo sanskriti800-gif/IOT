@@ -21,8 +21,9 @@ you can add unlimited sensors around the home or outside as long as they have Wi
 
 This is a work in progress.
 
-##Contributors
-sanskriti gupta 
-itasha modi 
-pomit majumder
+## Contributors
+* Sanskriti Gupta 
+* Itasha Modi 
+* Pomit Majumder
+* Pratik Deshpande
 
