@@ -19,4 +19,10 @@ Sign up for a free account to [openweathermap.org](http://openweathermap.org/) t
 
 you can add unlimited sensors around the home or outside as long as they have Wifi or some kind of IoT.
 
-This is a work in progress and I will be updating this repo as I build.
+This is a work in progress.
+
+##Contributors
+sanskriti gupta 
+itasha modi 
+pomit majumder
+
